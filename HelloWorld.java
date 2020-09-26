@@ -6,5 +6,6 @@ class HelloWorld
 
 		System.out.println("123456789000");
 		System.out.println("123421313131");
+		System.out.println("于浩宁太帅了");
 	}
 } 
